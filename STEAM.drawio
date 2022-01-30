@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="nop7J7Rvb9QtNTo36faY" name="Page-1">
-        <mxGraphModel dx="485" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="162" dy="118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -131,6 +131,56 @@
                 </mxCell>
                 <mxCell id="70" value="💰 🧾 💵 ⇢ Business Tech" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;rounded=1;" vertex="1" parent="1">
                     <mxGeometry x="480" y="560" width="240" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="Grade 11" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="866" width="160" height="160" as="geometry">
+                        <mxRectangle x="40" y="40" width="80" height="26" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="74" value="English&#10;Religion&#10;Math&#10;Science&#10;French / Co-op / Option&#10;Co-op / Option&#10;Computer Science&#10;Business" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;" vertex="1" parent="73">
+                    <mxGeometry y="26" width="160" height="134" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="Grade 12" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="866" width="160" height="160" as="geometry">
+                        <mxRectangle x="40" y="40" width="80" height="26" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="76" value="English&#10;Religion&#10;Math 1&#10;Math 2&#10;Science 1&#10;French / Option&#10;Business" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;" vertex="1" parent="75">
+                    <mxGeometry y="26" width="160" height="134" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="&lt;i&gt;&amp;nbsp;Engineering&lt;/i&gt;" style="html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="1026" width="160" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="&lt;i&gt;&amp;nbsp;Computer Science / Eng.&lt;/i&gt;" style="html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="1026" width="160" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="⚖️ 📜 🏛️ ⇢ Law and Technology" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="840" width="240" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="Grade 11" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="866" width="160" height="160" as="geometry">
+                        <mxRectangle x="40" y="40" width="80" height="26" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="81" value="English&#10;Religion&#10;Math&#10;Science&#10;French / Co-op / Option&#10;Co-op / Option&#10;Computer Science&#10;Business" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;" vertex="1" parent="80">
+                    <mxGeometry y="26" width="160" height="134" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="Grade 12" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="866" width="160" height="160" as="geometry">
+                        <mxRectangle x="40" y="40" width="80" height="26" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="83" value="English&#10;Religion&#10;Math 1&#10;Math 2&#10;Science 1&#10;French / Option&#10;Business" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;" vertex="1" parent="82">
+                    <mxGeometry y="26" width="160" height="134" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="&lt;i&gt;&amp;nbsp;Engineering&lt;/i&gt;" style="html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="1026" width="160" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="&lt;i&gt;&amp;nbsp;Computer Science / Eng.&lt;/i&gt;" style="html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="1026" width="160" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="🚧 🛠️ 🧰 ⇢ Construction Tech" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="840" width="240" height="26" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
