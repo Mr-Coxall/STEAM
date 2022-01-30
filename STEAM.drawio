@@ -1,11 +1,11 @@
 <mxfile host="65bd71144e">
     <diagram id="nop7J7Rvb9QtNTo36faY" name="Page-1">
-        <mxGraphModel dx="534" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1068" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="2" value="Grade 9" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-                    <mxGeometry x="40" y="40" width="160" height="174" as="geometry">
+                    <mxGeometry x="240" y="36" width="160" height="174" as="geometry">
                         <mxRectangle x="40" y="40" width="80" height="26" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
@@ -47,7 +47,7 @@
                     <mxGeometry y="148" width="160" height="42" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" value="&lt;i&gt;&amp;nbsp;Computer Science&lt;/i&gt;" style="html=1;align=left;" vertex="1" parent="1">
-                    <mxGeometry x="40" y="214" width="160" height="36" as="geometry"/>
+                    <mxGeometry x="240" y="210" width="160" height="36" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="&lt;i&gt;&amp;nbsp;Computer Science / Eng.&lt;/i&gt;" style="html=1;align=left;" vertex="1" parent="1">
                     <mxGeometry x="40" y="490" width="160" height="36" as="geometry"/>
@@ -170,7 +170,7 @@
                     <mxGeometry x="440" y="560" width="240" height="26" as="geometry"/>
                 </mxCell>
                 <mxCell id="58" value="Grade 10" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-                    <mxGeometry x="200" y="40" width="160" height="182" as="geometry">
+                    <mxGeometry x="400" y="36" width="160" height="182" as="geometry">
                         <mxRectangle x="40" y="40" width="80" height="26" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
@@ -184,10 +184,10 @@
                     <mxGeometry y="138" width="160" height="44" as="geometry"/>
                 </mxCell>
                 <mxCell id="62" value="&lt;i&gt;&amp;nbsp;Computer Eng.&lt;/i&gt;" style="html=1;align=left;" vertex="1" parent="1">
-                    <mxGeometry x="200" y="214" width="160" height="36" as="geometry"/>
+                    <mxGeometry x="400" y="210" width="160" height="36" as="geometry"/>
                 </mxCell>
                 <mxCell id="63" value="STEAM Track" style="label;fontStyle=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
-                    <mxGeometry x="40" y="14" width="240" height="26" as="geometry"/>
+                    <mxGeometry x="240" y="10" width="240" height="26" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
